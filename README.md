@@ -20,11 +20,11 @@ Huge Thanks and Credits go out to the following people:
 
 Ravi. A for assisting with the code of the reducer/parsing/prepping Piano Only Dataset :) Thanks a lot, bro! :)
 
-OpenAI and Christine Payne for MuseNet Music AI model
-Google Magenta Team for Google Magenta Piano Transformer Model
-AIVA Team for exclusive beta access that helped to create some of the tracks in the DataSet
-AMPER Team for free-trial of AMPER that helped to create one of the tracks in the DataSet.
-MAESTRO Creators for your awesome Piano Dataset :)
-Everyone else who contributed or developed the original code/AI models/AI systems :)))
+1) OpenAI and Christine Payne for MuseNet Music AI model
+2) Google Magenta Team for Google Magenta Piano Transformer Model
+3) AIVA Team for exclusive beta access that helped to create some of the tracks in the DataSet
+4) AMPER Team for free-trial of AMPER that helped to create one of the tracks in the DataSet.
+5) MAESTRO Creators for your awesome Piano Dataset :)
+6) Everyone else who contributed or developed the original code/AI models/AI systems :)))
 
 Tegridy Code 2020 Aleksandr Sigalov
