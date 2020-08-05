@@ -6,7 +6,7 @@ Benefits of using this dataset:
 1) Specifically designed for Music AI development/testing/creation.
 2) Multi-instrumental with drums
 3) Multiple styles and many familiar melodies
-4) Free sample analysis/eveluation by myself if you have any problems/questions as I know all of the dataset's compositions by heart :)
+4) Free sample analysis/evaluation by myself if you have any problems/questions as I know all of the dataset's compositions by heart :)
 5) I do not care if you will plagiarize my work so copyright is not an issue with this set at all.
 
 Description of the Set/Files:
