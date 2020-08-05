@@ -11,6 +11,20 @@ Benefits of using this dataset:
 
 Description of the Set/Files:
 
-1) 
+1) AlexMIDIDataSet(CC BY-NC-SA).zip ORIGINAL DATASET (~430 Multi-Instrumental MIDIs with Drums and Dynamics)
+2) AlexMIDIDataSet(CC BY-NC-SA)Piano.zip Reduction from the ORIGINAL DATASET to Piano Only (~400 Piano MIDIs with Dynamics).
 
 Please note that many of these MIDIs were co-composed with Artificial Intelligence systems/models (MuseNet/AIVA/Magenta) and some of the MIDIs are continuations or harmonizations of well known compositions of other artists. Please excerise care with the resulting models/output and please respect the license terms because we do not want to offend anyone whos work might've been over-fitted or plagiarized by mentioned music AI systems/models.
+
+Huge Thanks and Credits go out to the following people:
+
+Ravi. A for assisting with the code of the reducer/parsing/prepping Piano Only Dataset :) Thanks a lot, bro! :)
+
+OpenAI and Christine Payne for MuseNet Music AI model
+Google Magenta Team for Google Magenta Piano Transformer Model
+AIVA Team for exclusive beta access that helped to create some of the tracks in the DataSet
+AMPER Team for free-trial of AMPER that helped to create one of the tracks in the DataSet.
+MAESTRO Creators for your awesome Piano Dataset :)
+Everyone else who contributed or developed the original code/AI models/AI systems :)))
+
+Tegridy Code 2020 Aleksandr Sigalov
