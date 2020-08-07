@@ -1,5 +1,5 @@
 # AlexMIDIDataSet
-All of my musical works (~430 MIDI files) in one nice Data-Set for Music AI Purposes. Please CC BY-NC-SA :) Otherwise, enjoy and have fun! :)
+All of my musical works (~2000 MIDI files) in one nice Data-Set for Music AI Purposes. Please CC BY-NC-SA :) Otherwise, enjoy and have fun! :)
 
 Benefits of using this dataset:
 
