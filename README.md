@@ -13,6 +13,7 @@ Description of the Set/Files:
 
 1) AlexMIDIDataSet-CC-BY-NC-SA.zip ORIGINAL DATASET (~430 Multi-Instrumental MIDIs with Drums and Dynamics)
 2) AlexMIDIDataSet-CC-BY-NC-SA-Piano-Only.zip Reduction from the ORIGINAL DATASET to Piano Only (~400 Piano MIDIs with Dynamics).
+3) AlexMIDIDataSet-CC-BY-NC-SA-All-Drafts-Piano-Only.zip Reduction from all of my musical drafts/scores to Piano Only (~1500 Piano MIDIs with Dynamics)
 
 Please note that many of these MIDIs were co-composed with Artificial Intelligence systems/models (MuseNet/AIVA/Magenta) and some of the MIDIs are continuations or harmonizations of well known compositions of other artists. Please excerise care with the resulting models/output and please respect the license terms because we do not want to offend anyone whos work might've been over-fitted or plagiarized by mentioned music AI systems/models.
 
